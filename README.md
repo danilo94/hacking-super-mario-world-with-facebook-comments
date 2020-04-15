@@ -8,12 +8,12 @@ Integração do hack para o Super Mario World desenvolvido, com a API do faceboo
 * Pena
 
 
-- Requisitos
+> Requisitos
 
 * Token de acesso a página
 * Python 3
 * Psutil
 
-- Como gerar um token de acesso
+> Como gerar um token de acesso
 
 * https://medium.com/vertice/como-criar-um-page-access-token-de-facebook-que-n%C3%A3o-expira-ff8026020963
